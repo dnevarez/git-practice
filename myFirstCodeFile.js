@@ -7,3 +7,5 @@ journal.push(dm11);
 var mon = "First day"
 
 var stillMon = "learning"
+
+journal.push(mon, stillMon);
